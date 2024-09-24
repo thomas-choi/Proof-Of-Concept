@@ -102,7 +102,8 @@ def run(config, testing, tickers, filename):
 def main(config, testing, tickers, filename):
     tickers = tickers.split(",")
     config = settings.from_file(config, testing)
-    run(config, testing, tickers, filename)
+    # run(config, testing, tickers, filename)
+    print(config, testing, tickers, filename)
 
 
 if __name__ == "__main__":

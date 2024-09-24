@@ -1,0 +1,43 @@
+# arch
+# cvxpy
+# docx2pdf
+# empyrical
+# kaleido
+# ibapi
+# pypiwin32
+# Python-docx
+# pywin32
+# pytest-warnings
+# pykalman
+jupyter
+riskfolio-lib
+QuantStats
+scikit-learn
+yfinance
+hmmlearn
+# openbb
+openbb[all]
+# ib-insync
+# click==7.1.2
+# matplotlib==3.2.1
+# multipledispatch==0.6.0
+# munch==2.5.0
+# numpy==1.18.4
+# pandas==1.0.3
+# PyYAML==5.3.1
+# scipy==1.4.1
+# seaborn==0.10.1
+click
+matplotlib
+multipledispatch
+munch
+numpy
+pandas
+PyYAML
+scipy
+seaborn
+pymilvus 
+openai 
+requests 
+tqdm
+tensorflow[and-cuda]==2.16.1
